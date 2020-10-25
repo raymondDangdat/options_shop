@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369009193877",
+    "firebase_url": "https://optionsshop.firebaseio.com",
+    "project_id": "optionsshop",
+    "storage_bucket": "optionsshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369009193877:android:77faec921cec30caf4bc9c",
+        "android_client_info": {
+          "package_name": "com.ugocode.optionsshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369009193877-82h0g84tjps28veeed1ep9fqk0m4iof4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWSNDR_G11rUCBHZJgvKx60qT9pKYoZMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369009193877-82h0g84tjps28veeed1ep9fqk0m4iof4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
